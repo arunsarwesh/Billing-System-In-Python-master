@@ -1,4 +1,4 @@
-# module mane: main
+# module name: main
 import read
 import purchase
 import write
